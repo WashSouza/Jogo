@@ -22,6 +22,9 @@ public class Character : MonoBehaviour {
 				transform.Translate (Vector2.right);
 		}
 
+
+		//Hakuna Matata
+
 	}
 
 
